@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.lab.com.br/index.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.lab.com.br/phone/index.html"/>
+    <image:image>
+      <image:loc>http://www.lab.com.br/images/background.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.lab.com.br/images/seta-more.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.lab.com.br/people.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.lab.com.br/phone/people.html"/>
+  </url>
+  <url>
+    <loc>http://www.lab.com.br/projects---research.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.lab.com.br/phone/projects---research.html"/>
+  </url>
+  <url>
+    <loc>http://www.lab.com.br/news.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.lab.com.br/phone/news.html"/>
+    <image:image>
+      <image:loc>http://www.lab.com.br/images/background.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.lab.com.br/contact.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.lab.com.br/phone/contact.html"/>
+  </url>
+  <url>
+    <loc>http://www.lab.com.br/about.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.lab.com.br/phone/about.html"/>
+  </url>
+</urlset>
